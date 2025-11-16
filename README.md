@@ -15,7 +15,7 @@ A modern, browser-based remake of the classic board game **Monopoly**, built usi
 - Game state persistence and leaderboard maintained via MySQL data storage.
 
 ## 📷 Screenshot
-![Main Page](media/screen/avvia_partita - Copia.PNG)  
+[Main Page](media/screen/avvia_partita - Copia.PNG)  
 *The main game page with start-game options and user session info.*
 
 ## 🛠️ Getting Started / Installation
